@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 5em;
-    border: none;
+    border: black;
     font: Arial;
     font-size: 12px;
     background-color: blueviolet;
@@ -11,6 +11,7 @@ p {
     color: blue;
     background-color: antiquewhite;
     padding: 1em;
+    margin: 20px;
     font-size: 20px;
 }
 
