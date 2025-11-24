@@ -4,14 +4,12 @@ body {
     border: none;
     font: Arial;
     font-size: 12px;
-}
-
-background {
-    background: #dfbde7;
+    background-color: blueviolet;
 }
 
 p {
     color: blue;
     background-color: antiquewhite;
     padding: 1em;
+    font-size: 20px;
 }
