@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 5em;
+    border: none;
+    font: Arial;
+    font-size: 12px;
+}
+
+background {
+    background: #dfbde7;
+}
+
+p {
+    color: blue;
+    background-color: antiquewhite;
+    padding: 1em;
+}
