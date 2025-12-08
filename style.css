@@ -48,10 +48,15 @@ h1 {
   color: rgb(61, 5, 61);
 }
 
+a {
+  color:#0e9482;
+}
 
 nav {
   background-color: #470632;
   color: #ffffff;
+  text-decoration: none;
+  text-decoration-color: #ffffff;
 }
   
 ul {
@@ -76,6 +81,7 @@ ul, li a {
   text-align: center;
   text-decoration: none;
 }
+
 
 ul, li a:hover {
   background-color: #771658;
