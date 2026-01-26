@@ -14,6 +14,10 @@ body {
     background-color: rgb(144, 101, 187);
 }
 
+img {
+  size: 70% max;
+}
+
 p {
   color: black;
   /*background-color: antiquewhite; */
